@@ -33,8 +33,8 @@
 
 
 <h3> Projects and Work </h3> 
--[(Currency conveter)](https://reginmund9.github.io/currency-convert/)
--Check the repositories section to see more projects!
+From [AmitHasanShuvo](https://github.com/AmitHasanShuvo)
+- Check the repositories section to see more projects!
 
 <p>  </p> 
 
