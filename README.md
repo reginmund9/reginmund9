@@ -35,7 +35,6 @@
 <h3> Projects and Work </h3> 
 
 [Currency converter](https://reginmund9.github.io/currency-convert/).
-
 Check the repositories section to see more projects
 
 <p>  </p> 
