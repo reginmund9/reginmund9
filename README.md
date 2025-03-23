@@ -34,8 +34,8 @@
 
 <h3> Projects and Work </h3> 
 
-From [AmitHasanShuvo](https://github.com/AmitHasanShuvo)
-**To know more check the repositories section to see more projects!**
+[Currency converter](https://reginmund9.github.io/currency-convert/)
+Check the repositories section to see more projects
 
 <p>  </p> 
 
