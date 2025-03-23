@@ -31,15 +31,17 @@
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
+
 <h3> Projects and Work </h3> 
 [Currency conveter](https://github.com/reginmund9/currency-convert)
 [Vehicles](https://github.com/reginmund9/newrepo)
 
+
 <br/>
 
 <a href="https://github.com/reginmund9">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reginmund9&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reginmund9&theme=buefy&layout=compact" />
 </a>
 
 <br/>
