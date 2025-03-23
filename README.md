@@ -33,8 +33,8 @@
 
 
 <h3> Projects and Work </h3> 
--[Currency conveter](https://github.com/reginmund9/currency-convert)
--[Vehicles](https://github.com/reginmund9/newrepo)
+-[Currency conveter](https://reginmund9.github.io/currency-convert/)
+Check the repositories section to see more projects!
 
 <p>  </p> 
 
